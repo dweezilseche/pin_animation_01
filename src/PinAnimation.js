@@ -35,7 +35,7 @@ export default class PinAnimation {
       scrollTrigger: {
         trigger: this.DOM.container,
         start: "top top",
-        end: `${window.innerHeight * 5}px`,
+        end: `${window.innerHeight * 3}px`,
         // markers: true,
         scrub: 1,
         pin: true,
@@ -62,7 +62,7 @@ export default class PinAnimation {
       scrollTrigger: {
         trigger: this.DOM.container,
         start: "top top",
-        end: `${window.innerHeight * 5}px`,
+        end: `${window.innerHeight * 3}px`,
         scrub: true,
         // markers: true,
         onUpdate: (self) => this.handlePhaseUpdate(self),
