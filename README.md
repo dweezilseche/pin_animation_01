@@ -8,7 +8,9 @@ Projet Vite configuré avec:
 
 ## Démo
 
-https://github.com/user-attachments/assets/video_demo_pin_animation.mov
+> **Note**: La vidéo de démo est disponible localement dans le projet (`video_demo_pin_animation.gif` / `video_demo_pin_animation.mp4`) mais n'est pas incluse dans le repo GitHub en raison de sa taille (>100MB).
+
+Pour voir l'animation en action, clonez le projet et lancez-le localement avec `npm run dev`.
 
 ## Installation
 
