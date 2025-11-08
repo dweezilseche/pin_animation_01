@@ -6,6 +6,10 @@ Projet Vite configuré avec:
 - Lenis (smooth scrolling)
 - Sass (SCSS)
 
+## Démo
+
+https://github.com/user-attachments/assets/video_demo_pin_animation.mov
+
 ## Installation
 
 ```bash
