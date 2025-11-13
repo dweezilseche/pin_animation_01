@@ -37,10 +37,9 @@ export default class PinAnimation {
         start: "top top",
         end: `${window.innerHeight * 3}px`,
         // markers: true,
-        scrub: 1,
+        scrub: true,
         pin: true,
         pinSpacing: true,
-        anticipatePin: 1,
         onUpdate: (self) => this.handlePhaseUpdate(self),
       },
     });
